@@ -28,7 +28,7 @@
     "node": ">=4"
   },
   "peerDependencies": {
-    "node-sass": "^3.8.0 || 4"
+    "sass": "^1.32.8"
   },
   "dependencies": {
     "bluebird": "^3.4.7",
